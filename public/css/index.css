@@ -1,0 +1,13 @@
+.navbar {
+    background-color: rgb(21, 7, 215) !important;
+}
+
+.nav-item {
+    color: white !important;
+}
+.nav-item:hover {
+    color:rgb(85, 221, 255) !important;
+}
+.active {
+    color: rgb(253, 122, 214) !important;
+}
